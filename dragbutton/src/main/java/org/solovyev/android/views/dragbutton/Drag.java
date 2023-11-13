@@ -25,6 +25,8 @@ public final class Drag {
             return ((DirectionDragView) view).getText(direction).hasValue();
         }
         return false;
+	 
+	//Inserting comment in code 
     }
 
     @NonNull
